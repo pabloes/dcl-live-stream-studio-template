@@ -1,0 +1,65 @@
+{
+  "ecs7": true,
+  "runtimeVersion": "7",
+  "display": {
+    "title": "New Scenebbx",
+    "description": "Empty Scene Template",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": ""
+  },
+  "owner": "",
+  "contact": {
+    "name": "SDK",
+    "email": ""
+  },
+  "main": "bin/index.js",
+  "tags": [],
+  "scene": {
+    "base": "-15,-66",
+    "parcels": [
+      "-15,-65",
+      "-14,-65",
+      "-15,-66",
+      "-14,-66"
+    ]
+  },
+  "spawnPoints": [
+    {
+      "name": "Spawn Point 1",
+      "default": true,
+      "position": {
+        "x": [
+          11,
+          14
+        ],
+        "y": [
+          3,
+          3
+        ],
+        "z": [
+          11,
+          14
+        ]
+      },
+      "cameraTarget": {
+        "x": 13,
+        "y": 3,
+        "z": 11
+      }
+    }
+  ],
+  "requiredPermissions": [
+    "ALLOW_TO_TRIGGER_AVATAR_EMOTE",
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"
+  ],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled"
+  },
+  "skyboxConfig": {},
+  "source": {
+    "origin": "creator-hub",
+    "projectId": "71c41089-001c-4670-a52c-3f4a8f910f2b"
+  },
+  "rating": "T"
+}
