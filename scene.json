@@ -60,9 +60,7 @@
     "voiceChat": "enabled",
     "portableExperiences": "enabled"
   },
-  "skyboxConfig": {
-    "fixedTime": 43200
-  },
+  "skyboxConfig": {},
   "source": {
     "origin": "creator-hub",
     "projectId": "71c41089-001c-4670-a52c-3f4a8f910f2b"

@@ -156,8 +156,8 @@
         "518": {
           "json": {
             "position": {
-              "x": -1.75,
-              "y": 6.650000095367432,
+              "x": -1.4703617095947266,
+              "y": 6.713977813720703,
               "z": 3.178243637084961
             },
             "scale": {
@@ -284,7 +284,7 @@
             "position": {
               "x": 25.28266143798828,
               "y": 1.590000033378601,
-              "z": 13.361991882324219
+              "z": 12.927352905273438
             },
             "scale": {
               "x": 1.0999608039855957,
@@ -366,20 +366,20 @@
         "533": {
           "json": {
             "position": {
-              "x": -8.044218063354492,
-              "y": 7.8818793296813965,
-              "z": -3.9599990844726562
+              "x": -8.039999961853027,
+              "y": 7.880000114440918,
+              "z": -3.9600000381469727
             },
             "scale": {
-              "x": 0.6999865174293518,
-              "y": 0.699999988079071,
-              "z": 0.9999807476997375
+              "x": 1,
+              "y": 1,
+              "z": 1
             },
             "rotation": {
               "x": 0,
-              "y": -0.7071135640144348,
+              "y": 0.707099974155426,
               "z": 0,
-              "w": 0.707099974155426
+              "w": -0.707099974155426
             },
             "parent": 577
           }
@@ -576,20 +576,20 @@
         "544": {
           "json": {
             "position": {
-              "x": 9.73978042602539,
-              "y": 4.394003391265869,
-              "z": -6.790533065795898
+              "x": 9.739999771118164,
+              "y": 3.421218156814575,
+              "z": -4.040000915527344
             },
             "scale": {
-              "x": 0.4999903738498688,
-              "y": 0.5,
-              "z": 0.9999807476997375
+              "x": 0.30000001192092896,
+              "y": 0.30000001192092896,
+              "z": 0.30000001192092896
             },
             "rotation": {
               "x": 0,
-              "y": -0.7071135640144348,
+              "y": 0.707099974155426,
               "z": 0,
-              "w": 0.707099974155426
+              "w": -0.707099974155426
             },
             "parent": 577
           }
@@ -618,30 +618,9 @@
         "546": {
           "json": {
             "position": {
-              "x": -4.236213684082031,
+              "x": -4.239999771118164,
               "y": 0,
-              "z": 2.3644962310791016
-            },
-            "scale": {
-              "x": 0.9999998807907104,
-              "y": 1,
-              "z": 0.9999998807907104
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.7933533191680908,
-              "z": 0,
-              "w": 0.6087614297866821
-            },
-            "parent": 549
-          }
-        },
-        "547": {
-          "json": {
-            "position": {
-              "x": -4.236213684082031,
-              "y": 0,
-              "z": -2.3855037689208984
+              "z": 2.359999895095825
             },
             "scale": {
               "x": 1,
@@ -650,9 +629,9 @@
             },
             "rotation": {
               "x": 0,
-              "y": 0.4999999701976776,
+              "y": 0.8717547655105591,
               "z": 0,
-              "w": 0.8660253882408142
+              "w": 0.49006593227386475
             },
             "parent": 549
           }
@@ -725,7 +704,7 @@
             "position": {
               "x": 21.51980972290039,
               "y": 0.9757114052772522,
-              "z": 17.517574310302734
+              "z": 16.153331756591797
             },
             "scale": {
               "x": 0.9999999403953552,
@@ -744,22 +723,22 @@
         "552": {
           "json": {
             "position": {
-              "x": 21.1938419342041,
-              "y": 0.9757114052772522,
-              "z": 6.564077377319336
+              "x": 2.1175551414489746,
+              "y": -0.3145022392272949,
+              "z": -2.2642288208007812
+            },
+            "rotation": {
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 0
             },
             "scale": {
               "x": 1,
               "y": 1,
               "z": 1
             },
-            "rotation": {
-              "x": 0,
-              "y": 0.3152602016925812,
-              "z": 0,
-              "w": 0.9490052461624146
-            },
-            "parent": 553
+            "parent": 536
           }
         },
         "553": {
@@ -1039,7 +1018,7 @@
           "json": {
             "position": {
               "x": 9.787179946899414,
-              "y": 4.064494609832764,
+              "y": 4.213259220123291,
               "z": -4.01530647277832
             },
             "scale": {
@@ -1059,51 +1038,9 @@
         "567": {
           "json": {
             "position": {
-              "x": 23.836814880371094,
-              "y": 1.641069769859314,
-              "z": 9.834857940673828
-            },
-            "scale": {
-              "x": 0.9999998807907104,
-              "y": 1,
-              "z": 0.9999998807907104
-            },
-            "rotation": {
-              "x": 0,
-              "y": -0.28793278336524963,
-              "z": 0,
-              "w": 0.9576506018638611
-            },
-            "parent": 553
-          }
-        },
-        "568": {
-          "json": {
-            "position": {
-              "x": 9.73978042602539,
-              "y": 4.394003391265869,
-              "z": -1.0405330657958984
-            },
-            "scale": {
-              "x": 0.4999903738498688,
-              "y": 0.5,
-              "z": 0.9999807476997375
-            },
-            "rotation": {
-              "x": 0,
-              "y": -0.7071135640144348,
-              "z": 0,
-              "w": 0.707099974155426
-            },
-            "parent": 577
-          }
-        },
-        "569": {
-          "json": {
-            "position": {
-              "x": 24.042219161987305,
-              "y": 1.641069769859314,
-              "z": 13.794918060302734
+              "x": 24.040000915527344,
+              "y": 1.6399999856948853,
+              "z": 10.75
             },
             "scale": {
               "x": 1,
@@ -1112,9 +1049,51 @@
             },
             "rotation": {
               "x": 0,
-              "y": 0.9684652090072632,
+              "y": 0.28790000081062317,
               "z": 0,
-              "w": -0.24914883077144623
+              "w": -0.9575999975204468
+            },
+            "parent": 553
+          }
+        },
+        "568": {
+          "json": {
+            "position": {
+              "x": 9.739999771118164,
+              "y": 4.190000057220459,
+              "z": -1.2899999618530273
+            },
+            "scale": {
+              "x": 0.5,
+              "y": 0.5,
+              "z": 0.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.707099974155426,
+              "z": 0,
+              "w": -0.707099974155426
+            },
+            "parent": 577
+          }
+        },
+        "569": {
+          "json": {
+            "position": {
+              "x": 24.040000915527344,
+              "y": 1.6399999856948853,
+              "z": 13.25
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.968500018119812,
+              "z": 0,
+              "w": -0.249099999666214
             },
             "parent": 553
           }
@@ -1329,6 +1308,48 @@
             "parent": 577
           }
         },
+        "580": {
+          "json": {
+            "position": {
+              "x": 9.739999771118164,
+              "y": 4.190000057220459,
+              "z": -6.710000038146973
+            },
+            "scale": {
+              "x": 0.5,
+              "y": 0.5,
+              "z": 0.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.707099974155426,
+              "z": 0,
+              "w": -0.707099974155426
+            },
+            "parent": 577
+          }
+        },
+        "581": {
+          "json": {
+            "position": {
+              "x": -1.0747880935668945,
+              "y": -0.2551426887512207,
+              "z": 2.078084945678711
+            },
+            "rotation": {
+              "x": 0,
+              "y": -0.8229904770851135,
+              "z": 0,
+              "w": -0.56816166639328
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 536
+          }
+        },
         "584": {
           "json": {
             "position": {
@@ -1369,6 +1390,27 @@
               "w": 1
             },
             "parent": 534
+          }
+        },
+        "597": {
+          "json": {
+            "position": {
+              "x": -0.12770171463489532,
+              "y": 3.020198106765747,
+              "z": 0.3215520977973938
+            },
+            "scale": {
+              "x": 0.9998446106910706,
+              "y": 0.9998727440834045,
+              "z": 0.9999228715896606
+            },
+            "rotation": {
+              "x": 0.10465695708990097,
+              "y": -0.06115763634443283,
+              "z": 0.6993075609207153,
+              "w": 0.7044712901115417
+            },
+            "parent": 546
           }
         },
         "599": {
@@ -1413,6 +1455,27 @@
             "parent": 534
           }
         },
+        "602": {
+          "json": {
+            "position": {
+              "x": -0.12770171463489532,
+              "y": 3.020198106765747,
+              "z": 0.3215520977973938
+            },
+            "scale": {
+              "x": 0.9998446106910706,
+              "y": 0.9998727440834045,
+              "z": 0.9999228715896606
+            },
+            "rotation": {
+              "x": 0.08295273035764694,
+              "y": -0.08294224739074707,
+              "z": 0.702212929725647,
+              "w": 0.7022397518157959
+            },
+            "parent": 604
+          }
+        },
         "603": {
           "json": {
             "position": {
@@ -1434,6 +1497,27 @@
             "parent": 534
           }
         },
+        "604": {
+          "json": {
+            "position": {
+              "x": -4.239999771118164,
+              "y": 0,
+              "z": -2.3316636085510254
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.5152715444564819,
+              "z": 0,
+              "w": 0.8570975661277771
+            },
+            "parent": 549
+          }
+        },
         "605": {
           "json": {
             "position": {
@@ -1453,6 +1537,27 @@
               "w": 1
             },
             "parent": 603
+          }
+        },
+        "608": {
+          "json": {
+            "position": {
+              "x": 21.51980972290039,
+              "y": 0.9757114052772522,
+              "z": 8.260808944702148
+            },
+            "scale": {
+              "x": 0.9999999403953552,
+              "y": 1,
+              "z": 0.9999999403953552
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.37947338819503784,
+              "z": 0,
+              "w": 0.9252026677131653
+            },
+            "parent": 553
           }
         },
         "612": {
@@ -1558,6 +1663,90 @@
               "w": 1
             },
             "parent": 615
+          }
+        },
+        "618": {
+          "json": {
+            "position": {
+              "x": -3.413580894470215,
+              "y": -0.25876522064208984,
+              "z": 1.8518571853637695
+            },
+            "rotation": {
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 536
+          }
+        },
+        "619": {
+          "json": {
+            "position": {
+              "x": 2.119999885559082,
+              "y": -0.2551426887512207,
+              "z": 0.7399997711181641
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.79339998960495,
+              "z": 0,
+              "w": -0.6087999939918518
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 536
+          }
+        },
+        "620": {
+          "json": {
+            "position": {
+              "x": -0.17969799041748047,
+              "y": 0.22217464447021484,
+              "z": 0.4796009063720703
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 0
+            },
+            "parent": 536
+          }
+        },
+        "621": {
+          "json": {
+            "position": {
+              "x": 0.33653736114501953,
+              "y": 0.22217464447021484,
+              "z": -0.0036172866821289062
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 0
+            },
+            "parent": 536
           }
         },
         "666": {
@@ -1940,6 +2129,20 @@
             ]
           }
         },
+        "567": {
+          "json": {
+            "states": [
+              {
+                "clip": "Mic",
+                "playing": false,
+                "weight": 1,
+                "speed": 1,
+                "loop": false,
+                "shouldReset": false
+              }
+            ]
+          }
+        },
         "666": {
           "json": {
             "states": [
@@ -2030,7 +2233,7 @@
         },
         "533": {
           "json": {
-            "src": "assets/models/neon_tryhard.gltf",
+            "src": "assets/models/neon_DCL.gltf",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -2084,13 +2287,6 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
-        "547": {
-          "json": {
-            "src": "assets/models/photowall_light.gltf",
-            "visibleMeshesCollisionMask": 0,
-            "invisibleMeshesCollisionMask": 3
-          }
-        },
         "549": {
           "json": {
             "src": "assets/models/photowall.gltf",
@@ -2114,7 +2310,7 @@
         },
         "552": {
           "json": {
-            "src": "assets/models/photowall_light.gltf",
+            "src": "assets/asset-packs/clay_pot/Pot_01/Pot_01.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -2170,7 +2366,7 @@
         },
         "568": {
           "json": {
-            "src": "assets/models/neon_on_air.gltf",
+            "src": "assets/models/neon_DCL.gltf",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -2217,6 +2413,20 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
+        "580": {
+          "json": {
+            "src": "assets/models/neon_DCL.gltf",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "581": {
+          "json": {
+            "src": "assets/models/floor_lamp.gltf",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
         "584": {
           "json": {
             "src": "assets/asset-packs/flower_crop/FarmVegetation_03/FarmVegetation_03.glb",
@@ -2229,6 +2439,13 @@
             "src": "assets/asset-packs/concrete_square_planter/Pot_02/Pot_02.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "597": {
+          "json": {
+            "src": "assets/asset-packs/spotlight/spotlight.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 0
           }
         },
         "599": {
@@ -2245,6 +2462,13 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
+        "602": {
+          "json": {
+            "src": "assets/asset-packs/spotlight/spotlight.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 0
+          }
+        },
         "603": {
           "json": {
             "src": "assets/asset-packs/concrete_square_planter/Pot_02/Pot_02.glb",
@@ -2252,9 +2476,23 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
+        "604": {
+          "json": {
+            "src": "assets/models/photowall_light.gltf",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
         "605": {
           "json": {
             "src": "assets/asset-packs/flower_crop/FarmVegetation_03/FarmVegetation_03.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "608": {
+          "json": {
+            "src": "assets/models/photowall_light.gltf",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -2290,6 +2528,34 @@
         "617": {
           "json": {
             "src": "assets/asset-packs/flower_crop/FarmVegetation_03/FarmVegetation_03.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "618": {
+          "json": {
+            "src": "assets/asset-packs/planted_balsam/PlantPot_04/PlantPot_04.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "619": {
+          "json": {
+            "src": "assets/models/floor_lamp.gltf",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "620": {
+          "json": {
+            "src": "assets/asset-packs/wine_glass/WineGlass_01/WineGlass_01.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "621": {
+          "json": {
+            "src": "assets/asset-packs/wine_glass/WineGlass_01/WineGlass_01.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -3232,7 +3498,7 @@
         },
         "533": {
           "json": {
-            "value": "neon_tryhard.gltf"
+            "value": "neon_DCL"
           }
         },
         "534": {
@@ -3295,11 +3561,6 @@
             "value": "Photowall_Light_01"
           }
         },
-        "547": {
-          "json": {
-            "value": "Photowall_Light_02"
-          }
-        },
         "548": {
           "json": {
             "value": "Custom_Background"
@@ -3322,7 +3583,7 @@
         },
         "552": {
           "json": {
-            "value": "photowall_light.gltf_2"
+            "value": "Clay Pot_2"
           }
         },
         "553": {
@@ -3402,7 +3663,7 @@
         },
         "568": {
           "json": {
-            "value": "neon_on_air.gltf_2_3"
+            "value": "neon_DCL"
           }
         },
         "569": {
@@ -3460,6 +3721,16 @@
             "value": "neon_live_outside"
           }
         },
+        "580": {
+          "json": {
+            "value": "neon_DCL_2"
+          }
+        },
+        "581": {
+          "json": {
+            "value": "Floor_Lamp_2"
+          }
+        },
         "584": {
           "json": {
             "value": "Flower crop_3"
@@ -3468,6 +3739,11 @@
         "585": {
           "json": {
             "value": "Concrete Square Planter_1_2"
+          }
+        },
+        "597": {
+          "json": {
+            "value": "Spotlight_2_3_4_6"
           }
         },
         "599": {
@@ -3480,14 +3756,29 @@
             "value": "Planted Fern_2"
           }
         },
+        "602": {
+          "json": {
+            "value": "Spotlight_2_3_4_6_8"
+          }
+        },
         "603": {
           "json": {
             "value": "Concrete Square Planter_1"
           }
         },
+        "604": {
+          "json": {
+            "value": "Photowall_Light_01_3"
+          }
+        },
         "605": {
           "json": {
             "value": "Flower crop"
+          }
+        },
+        "608": {
+          "json": {
+            "value": "photowall_light.gltf_2"
           }
         },
         "612": {
@@ -3513,6 +3804,26 @@
         "617": {
           "json": {
             "value": "Flower crop_2"
+          }
+        },
+        "618": {
+          "json": {
+            "value": "Planted Balsam_2"
+          }
+        },
+        "619": {
+          "json": {
+            "value": "Floor_Lamp"
+          }
+        },
+        "620": {
+          "json": {
+            "value": "Wine Glass"
+          }
+        },
+        "621": {
+          "json": {
+            "value": "Wine Glass_2"
           }
         },
         "666": {
@@ -3699,7 +4010,8 @@
         "567": {
           "json": {
             "componentIds": [
-              2709697014
+              2709697014,
+              1042
             ]
           }
         },
@@ -3769,7 +4081,7 @@
       "data": {
         "516": {
           "json": {
-            "text": "STREAMERS",
+            "text": "STREAMER",
             "font": 2,
             "fontSize": 20,
             "fontAutoSize": true,
@@ -3821,7 +4133,7 @@
         },
         "564": {
           "json": {
-            "text": "STREAMERS",
+            "text": "STREAMER",
             "font": 2,
             "fontSize": 20,
             "fontAutoSize": true,
@@ -3931,6 +4243,16 @@
             "visible": true
           }
         },
+        "597": {
+          "json": {
+            "visible": false
+          }
+        },
+        "602": {
+          "json": {
+            "visible": false
+          }
+        },
         "668": {
           "json": {
             "visible": false
@@ -3981,6 +4303,57 @@
       }
     },
     {
+      "name": "core::LightSource",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBLightSource"
+      },
+      "data": {
+        "597": {
+          "json": {
+            "active": true,
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "intensity": 62634,
+            "range": -1,
+            "shadow": true,
+            "type": {
+              "$case": "spot",
+              "spot": {
+                "innerAngle": 117,
+                "outerAngle": 180
+              }
+            }
+          }
+        },
+        "602": {
+          "json": {
+            "active": true,
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "intensity": 62634,
+            "range": -1,
+            "shadow": true,
+            "type": {
+              "$case": "spot",
+              "spot": {
+                "innerAngle": 180,
+                "outerAngle": 180
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "name": "inspector::Selection",
       "jsonSchema": {
         "type": "object",
@@ -3993,9 +4366,9 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "618": {
           "json": {
-            "gizmo": 0
+            "gizmo": 1
           }
         }
       }
@@ -4336,12 +4709,9 @@
               "music"
             ],
             "author": "SDK",
+            "email": "",
             "tags": [],
             "layout": {
-              "base": {
-                "x": -15,
-                "y": -66
-              },
               "parcels": [
                 {
                   "x": -15,
@@ -4359,11 +4729,15 @@
                   "x": -14,
                   "y": -66
                 }
-              ]
+              ],
+              "base": {
+                "x": -15,
+                "y": -66
+              }
             },
-            "skyboxConfig": {
-              "fixedTime": 43200
-            },
+            "silenceVoiceChat": false,
+            "disablePortableExperiences": false,
+            "skyboxConfig": {},
             "spawnPoints": [
               {
                 "name": "Spawn Point 1",
@@ -4637,38 +5011,34 @@
               },
               {
                 "entity": 546,
-                "children": []
-              },
-              {
-                "entity": 547,
-                "children": []
+                "open": true,
+                "children": [
+                  597
+                ]
               },
               {
                 "entity": 549,
                 "children": [
                   531,
-                  547,
-                  546
+                  546,
+                  604
                 ]
               },
               {
                 "entity": 551,
-                "children": []
-              },
-              {
-                "entity": 552,
+                "open": true,
                 "children": []
               },
               {
                 "entity": 553,
                 "children": [
                   551,
-                  552,
                   535,
                   529,
                   548,
                   567,
-                  569
+                  569,
+                  608
                 ]
               },
               {
@@ -4681,11 +5051,18 @@
               },
               {
                 "entity": 536,
+                "open": true,
                 "children": [
                   545,
                   570,
                   571,
-                  572
+                  572,
+                  618,
+                  619,
+                  620,
+                  621,
+                  552,
+                  581
                 ]
               },
               {
@@ -4836,7 +5213,8 @@
                   568,
                   543,
                   578,
-                  579
+                  579,
+                  580
                 ]
               },
               {
@@ -4855,6 +5233,54 @@
               },
               {
                 "entity": 584,
+                "children": []
+              },
+              {
+                "entity": 580,
+                "children": []
+              },
+              {
+                "entity": 597,
+                "children": []
+              },
+              {
+                "entity": 604,
+                "open": true,
+                "children": [
+                  602
+                ]
+              },
+              {
+                "entity": 602,
+                "children": []
+              },
+              {
+                "entity": 608,
+                "open": true,
+                "children": []
+              },
+              {
+                "entity": 618,
+                "children": []
+              },
+              {
+                "entity": 619,
+                "children": []
+              },
+              {
+                "entity": 620,
+                "children": []
+              },
+              {
+                "entity": 621,
+                "children": []
+              },
+              {
+                "entity": 552,
+                "children": []
+              },
+              {
+                "entity": 581,
                 "children": []
               }
             ]
@@ -5575,7 +6001,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 26
+            "value": 28
           }
         }
       }
@@ -6578,7 +7004,7 @@
               ]
             },
             "smartItemsControl": {
-              "isEnabled": false,
+              "isEnabled": true,
               "linkAllSmartItems": false,
               "smartItems": []
             },
@@ -6712,9 +7138,6 @@
         "546": {
           "json": {}
         },
-        "547": {
-          "json": {}
-        },
         "548": {
           "json": {}
         },
@@ -6811,6 +7234,12 @@
         "579": {
           "json": {}
         },
+        "580": {
+          "json": {}
+        },
+        "581": {
+          "json": {}
+        },
         "582": {
           "json": {}
         },
@@ -6823,16 +7252,28 @@
         "585": {
           "json": {}
         },
+        "597": {
+          "json": {}
+        },
         "599": {
           "json": {}
         },
         "601": {
           "json": {}
         },
+        "602": {
+          "json": {}
+        },
         "603": {
           "json": {}
         },
+        "604": {
+          "json": {}
+        },
         "605": {
+          "json": {}
+        },
+        "608": {
           "json": {}
         },
         "613": {
@@ -6845,6 +7286,18 @@
           "json": {}
         },
         "617": {
+          "json": {}
+        },
+        "618": {
+          "json": {}
+        },
+        "619": {
+          "json": {}
+        },
+        "620": {
+          "json": {}
+        },
+        "621": {
           "json": {}
         },
         "666": {
@@ -6864,26 +7317,6 @@
         },
         "674": {
           "json": {}
-        }
-      }
-    },
-    {
-      "name": "inspector::Hide",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {
-          "value": {
-            "type": "boolean",
-            "serializationType": "boolean"
-          }
-        },
-        "serializationType": "map"
-      },
-      "data": {
-        "667": {
-          "json": {
-            "value": true
-          }
         }
       }
     },
@@ -8210,6 +8643,184 @@
               }
             ],
             "assetId": "dc5ec17b-aa1a-4bd0-bace-7d615d9bdc71"
+          }
+        },
+        "597": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "87c829b3-8e8d-4fcb-9f43-85d3aa9084f6",
+            "label": "Light Settings",
+            "sections": [
+              {
+                "id": "light-settings",
+                "items": [
+                  {
+                    "component": "core::LightSource",
+                    "widget": "ColorField",
+                    "label": "Color",
+                    "type": "Color3",
+                    "path": "color",
+                    "props": {
+                      "basic": true
+                    },
+                    "transform": {
+                      "in": {
+                        "steps": [
+                          {
+                            "op": "toHex"
+                          }
+                        ]
+                      },
+                      "out": {
+                        "steps": [
+                          {
+                            "op": "toColor3"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "component": "core::LightSource",
+                    "widget": "RangeField",
+                    "label": "Intensity",
+                    "path": "intensity",
+                    "constraints": {
+                      "max": 300000,
+                      "step": 1,
+                      "default": "16000"
+                    }
+                  },
+                  {
+                    "component": "core::LightSource",
+                    "widget": "RangeField",
+                    "label": "Inner Angle",
+                    "path": "type.spot.innerAngle",
+                    "constraints": {
+                      "max": 180,
+                      "step": 1,
+                      "default": "30"
+                    }
+                  },
+                  {
+                    "component": "core::LightSource",
+                    "widget": "RangeField",
+                    "label": "Outer Angle",
+                    "path": "type.spot.outerAngle",
+                    "constraints": {
+                      "max": 180,
+                      "step": 1,
+                      "default": "40"
+                    }
+                  }
+                ],
+                "columns": 1
+              },
+              {
+                "id": "shadow-mask",
+                "items": [
+                  {
+                    "component": "core::LightSource",
+                    "widget": "FileUploadField",
+                    "label": "Shadow Mask Texture",
+                    "path": "shadowMaskTexture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "version": 2
+          }
+        },
+        "602": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "87c829b3-8e8d-4fcb-9f43-85d3aa9084f6",
+            "label": "Light Settings",
+            "sections": [
+              {
+                "id": "light-settings",
+                "items": [
+                  {
+                    "component": "core::LightSource",
+                    "widget": "ColorField",
+                    "label": "Color",
+                    "type": "Color3",
+                    "path": "color",
+                    "props": {
+                      "basic": true
+                    },
+                    "transform": {
+                      "in": {
+                        "steps": [
+                          {
+                            "op": "toHex"
+                          }
+                        ]
+                      },
+                      "out": {
+                        "steps": [
+                          {
+                            "op": "toColor3"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "component": "core::LightSource",
+                    "widget": "RangeField",
+                    "label": "Intensity",
+                    "path": "intensity",
+                    "constraints": {
+                      "max": 300000,
+                      "step": 1,
+                      "default": "16000"
+                    }
+                  },
+                  {
+                    "component": "core::LightSource",
+                    "widget": "RangeField",
+                    "label": "Inner Angle",
+                    "path": "type.spot.innerAngle",
+                    "constraints": {
+                      "max": 180,
+                      "step": 1,
+                      "default": "30"
+                    }
+                  },
+                  {
+                    "component": "core::LightSource",
+                    "widget": "RangeField",
+                    "label": "Outer Angle",
+                    "path": "type.spot.outerAngle",
+                    "constraints": {
+                      "max": 180,
+                      "step": 1,
+                      "default": "40"
+                    }
+                  }
+                ],
+                "columns": 1
+              },
+              {
+                "id": "shadow-mask",
+                "items": [
+                  {
+                    "component": "core::LightSource",
+                    "widget": "FileUploadField",
+                    "label": "Shadow Mask Texture",
+                    "path": "shadowMaskTexture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "version": 2
           }
         }
       }
